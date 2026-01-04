@@ -1,2 +1,2 @@
-# jakmachineshop.github.io
-JAK Machine Shop &amp; Engineering Works is specializing in precision machining &amp; engineering services. We deliver high-quality, cost-effective manufactured parts with accuracy, speed, and reliability. Our capabilities cover a wide range of materials, including steel, stainless steel, alloys, cast iron, non-ferrous metals, and plastics.
+# jak machine shop
+JAK Machine Shop & Engineering Works is a privately owned company established in 2016, specializing in precision machining and engineering services. We deliver high-quality, cost-effective manufactured parts with accuracy, speed, and reliability. Our capabilities cover a wide range of materials, including steel, stainless steel, alloys, cast iron, non-ferrous metals, and plastics, as well as mould and die modification and repair. Committed to quality, safety, and integrity, we strive to exceed client expectations through manufacturing excellence.

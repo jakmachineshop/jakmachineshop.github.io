@@ -1,7 +1,12 @@
 # Site settings
 title: JAK Machine Shop
 description: > # this means to ignore newlines until "baseurl:"
-  JAK Machine Shop & Engineering Works is a privately owned company established in 2016, specializing in precision machining and engineering services. We deliver high-quality, cost-effective manufactured parts with accuracy, speed, and reliability. Our capabilities cover a wide range of materials, including steel, stainless steel, alloys, cast iron, non-ferrous metals, and plastics, as well as mould and die modification and repair. Committed to quality, safety, and integrity, we strive to exceed client expectations through manufacturing excellence.
+  JAK Machine Shop & Engineering Works is a privately owned company established in 2016, 
+  specializing in precision machining and engineering services. We deliver high-quality, 
+  cost-effective manufactured parts with accuracy, speed, and reliability. 
+  Our capabilities cover a wide range of materials, including steel, stainless steel, alloys, 
+  cast iron, non-ferrous metals, and plastics, as well as mould and die modification and repair. 
+  Committed to quality, safety, and integrity, we strive to exceed client expectations through manufacturing excellence.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jakmachineshop.com" # the base hostname & protocol for your site
 theme: jekyll-theme-minimal # specifies the theme to use
